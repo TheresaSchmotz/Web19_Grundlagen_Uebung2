@@ -1,0 +1,36 @@
+
+h1{
+
+    color: green;
+    font-family: Arial;
+}
+#section1 h1, #section2 h1, #section3 h1, #section4 h1{
+    color: black;
+}
+
+main{
+    max-width: 600px;
+    font-family: Arial;
+}
+
+#section1{
+
+}
+
+#section2 {
+
+}
+
+#section3 {
+
+}
+
+#section4{
+
+
+}
+
+p::first-letter{
+    color: green;
+    font-size: 20pt;
+}
